@@ -1,9 +1,8 @@
-===================
-DEPRECATION WARNING
-===================
+==============
+ARCHIVE NOTICE
+==============
 
-Plugin is currently in maintenance mode, no feature requests will be accepted.
-Vim-powerline will be deprecated in favour of https://github.com/Lokaltog/powerline once it is ready.
+This plugin is not actively developed, but it still works fine for me.
 
 =================
 Powerline for vim
